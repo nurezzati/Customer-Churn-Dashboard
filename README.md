@@ -1,4 +1,4 @@
-# Customer-Churn-Dashboard
+# Customer Churn Dashboard
 
 ![image](Telco-Dashboard.png)
 
