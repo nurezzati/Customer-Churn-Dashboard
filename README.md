@@ -4,7 +4,9 @@
 
 📌 Project Overview --> This project analyzes customer churn in the telecommunications sector to identify key factors influencing why customers leave their service providers. Using a dataset of 5,986 users from Kaggle, we explored customer demographics, service usage, payment methods, and contract types to uncover actionable insights for retention strategies. The dashboard was developed in Power BI to provide the Telco company’s management with a visual, interactive tool for monitoring churn patterns and planning interventions.
 
-Source - The dataset is taken from Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn    This project is part of my final group assignment during degree and full report can be accessed here: https://www.canva.com/design/DAEdf7T9Ga8/9JMITJLstO5gc-YeCCnJVg/view?utm_content=DAEdf7T9Ga8&utm_campaign=designshare&utm_medium=link&utm_source=editor#37
+Source - The dataset is taken from Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
+--> This project is part of my final group assignment during degree and full report can be accessed here: https://www.canva.com/design/DAEdf7T9Ga8/9JMITJLstO5gc-YeCCnJVg/view?utm_content=DAEdf7T9Ga8&utm_campaign=designshare&utm_medium=link&utm_source=editor#37  
+--> Disclaimer - PBIX file no longer accessible due to expiration Power BI student license. Hence, this repository contains only the project report and analysis details.
 
 🎯 Project Objectives
 
