@@ -1,5 +1,7 @@
 # Customer-Churn-Dashboard
 
+![image](Telco-Dashboard.png)
+
 📌 Project Overview --> This project analyzes customer churn in the telecommunications sector to identify key factors influencing why customers leave their service providers. Using a dataset of 5,986 users from Kaggle, we explored customer demographics, service usage, payment methods, and contract types to uncover actionable insights for retention strategies. The dashboard was developed in Power BI to provide the Telco company’s management with a visual, interactive tool for monitoring churn patterns and planning interventions.
 
 Source - The dataset is taken from Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn    This project is part of my final group assignment during degree and full report can be accessed here: https://www.canva.com/design/DAEdf7T9Ga8/9JMITJLstO5gc-YeCCnJVg/view?utm_content=DAEdf7T9Ga8&utm_campaign=designshare&utm_medium=link&utm_source=editor#37
@@ -52,7 +54,7 @@ Source - The dataset is taken from Kaggle: https://www.kaggle.com/datasets/blast
 
 🏆 Conclusion & Business Impact
 
-The analysis confirmed that contract type, service quality, and pricing are critical churn drivers.  By addressing these areas, the Telco can:
+The analysis confirmed that contract type, service quality, and pricing are critical churn drivers.  By addressing these areas, the telco can:
 1. Improve customer loyalty.
 2. Reduce revenue losses from churn.
 3. Optimize service plans and pricing strategies.
@@ -63,6 +65,3 @@ Learning Takeaways
 3. Learnt how to analyze telco data and new terms in telecommunication domain
 4. Learnt to use DAX to produce derivative attribute (new measure/metric)
 
-Enhance customer satisfaction through better technical support and online security.
-
-This project demonstrates skills in data cleaning, transformation, visualization, and storytelling using Power BI — translating raw telecom data into actionable business strategies.
